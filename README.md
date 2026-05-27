@@ -40,12 +40,11 @@
 
 ### 📸 畫面截圖
 
-> *(截圖整理中，請稍候)*
+![Dashboard 畫面 1](./003-dashboard/screenshots/003demo-1.png)
 
-<!-- 截圖上傳後，請將下方註解取代為實際圖片 -->
-<!-- ![KPI 總覽](./003-dashboard/screenshots/01-kpi-overview.png) -->
-<!-- ![工單追蹤](./003-dashboard/screenshots/02-ticket-tracking.png) -->
-<!-- ![Excel 匯入](./003-dashboard/screenshots/03-excel-import.png) -->
+![Dashboard 畫面 2](./003-dashboard/screenshots/003demo-2.png)
+
+![Dashboard 畫面 3](./003-dashboard/screenshots/003demo-3.png)
 
 ### 📎 相關連結
 
@@ -74,10 +73,9 @@
 
 ### 📸 畫面截圖
 
-> *(截圖整理中，請稍候)*
+![LINE 系統畫面 1](./004-line-api/screenshots/004demo-1.png)
 
-<!-- ![訊息管理介面](./004-line-api/screenshots/01-message-inbox.png) -->
-<!-- ![分析報表](./004-line-api/screenshots/02-analysis-report.png) -->
+![LINE 系統畫面 2](./004-line-api/screenshots/004demo-2.png)
 
 ### 📎 相關連結
 
@@ -89,7 +87,7 @@
 
 | 類別 | 工具 / 技術 |
 |------|-------------|
-| 語言 | Python、SQL、TypeScript、Go |
+| 語言 | Python、SQL、TypeScript、Go（少量使用） |
 | 後端 | FastAPI、Flask |
 | 前端 | React、TypeScript、HTML/CSS |
 | 資料庫 | PostgreSQL、MySQL（現以 PostgreSQL 為主）、SQLite |
