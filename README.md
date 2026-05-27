@@ -89,13 +89,13 @@
 
 | 類別 | 工具 / 技術 |
 |------|-------------|
-| 語言 | Python、SQL、TypeScript |
+| 語言 | Python、SQL、TypeScript、Go |
 | 後端 | FastAPI、Flask |
-| 前端 | React、HTML/CSS |
-| 資料庫 | PostgreSQL、SQLite |
+| 前端 | React、TypeScript、HTML/CSS |
+| 資料庫 | PostgreSQL、MySQL（現以 PostgreSQL 為主）、SQLite |
 | 自動化 | APScheduler、IMAP 信箱整合、Excel 批次處理 |
-| AI 工具 | Gemini API、GitHub Copilot、Claude |
-| 管理工具 | Excel、Google Sheets、Notion |
+| AI 工具 | Gemini API、GPT、Grok、GitHub Copilot、Claude |
+| 管理工具 | Excel、Google Sheets |
 
 ---
 
