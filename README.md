@@ -107,9 +107,9 @@
 
 ### 📸 畫面截圖
 
-<!-- 圖片上傳後取消下方兩行的註解 -->
-<!-- ![MedicalRecordOCR Workbench](./005-medical-data-workbench/screenshots/005demo-1.png) -->
-<!-- ![病人追蹤 Dashboard](./005-medical-data-workbench/screenshots/005demo-2.png) -->
+![MedicalRecordOCR Workbench](./005-medical-data-workbench/screenshots/005demo-1.jpg)
+
+![病人追蹤 Dashboard](./005-medical-data-workbench/screenshots/005demo-2.png)
 
 ### 📎 補充說明
 
